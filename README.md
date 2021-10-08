@@ -3,7 +3,7 @@ MSIBR is the conjoining join to the paper [paper name] (paper url). This code wi
 
 
 ## File System
-Read README.mc in scripts
+Read README.md in scripts
  
  **Main Variables**
  - FSF: fuel salt fraction
