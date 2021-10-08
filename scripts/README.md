@@ -17,7 +17,8 @@ function files
 
 tool files
   - runAll.py: A simple file which loops through all the current input decks (should be inside the main run folder)
-- Run Folders
+
+Run Folders
   - Folder: variable1[0]
     - Folder: variable2[0]
     
