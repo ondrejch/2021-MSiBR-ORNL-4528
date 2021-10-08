@@ -2,7 +2,11 @@
 **Main Folder**
 
 - Python Files
+
+main files
   - generate_serpent.py: Main file to create input decks | calls deck.py
+
+function files
   - calculateSlit.py: Converts the variable blanket fraction into the slit width between graphite hexagons
   - deck.py: Organizes input deck and outputs string | calls lattice.py, surfs.py, cells.py, materials.py, reprocessing.py
   - cells.py: Cell creation
@@ -10,6 +14,8 @@
   - materials.py: Material definitions
   - surfs.py: Surface creation
   - reprocessing.py: If toggeled will create a reprocessing scheme
+
+tool files
   - runAll.py: A simple file which loops through all the current input decks (should be inside the main run folder)
 - Run Folders
   - Folder: variable1[0]
